@@ -1,2 +1,2 @@
-# tkinter-notepad
-A text editor built with python using Tkinter
+# Notepad Application
+> A text editor built with python using Tkinter
