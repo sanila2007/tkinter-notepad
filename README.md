@@ -4,10 +4,12 @@
 <img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/notepad_icon.png" width=200 height=200>
 
 <big>
+  
 - [Screenshots](https://github.com/sanila2007/tkinter-notepad#screenshots)
 - [Installation](https://github.com/sanila2007/tkinter-notepad#installation)
 - [Download](https://github.com/sanila2007/tkinter-notepad#download)
 - [Credits](https://github.com/sanila2007/tkinter-notepad#credits)
+  
 </big>
 
 ### Screenshots
