@@ -13,10 +13,10 @@
 
 ### Installation
 
-- Download this
+- <a href="https://github.com/sanila2007/tkinter-notepad/blob/mai/exe.win-amd64-3.11.zip">Download this</a>
 - Extract it
 - Open that folder and click `Notepad.exe`
 
 ### Download
 
-- Download from here
+- <a href="https://github.com/sanila2007/tkinter-notepad/blob/mai/exe.win-amd64-3.11.zip">Download from here</a>
