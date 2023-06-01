@@ -20,3 +20,13 @@
 ### Download
 
 - <a href="https://github.com/sanila2007/tkinter-notepad/blob/mai/exe.win-amd64-3.11.zip">Download from here</a>
+
+```
+Note:
+This application runs only on Windows operating systems.
+```
+<br>
+
+<p>*Any issues or suggestions? Feel free to open an <a href="https://github.com/sanila2007/tkinter-notepad/issues">new issue</a></p>
+
+> Made with love by <a href="https://github.com/sanila2007">@sanila2007</a>
