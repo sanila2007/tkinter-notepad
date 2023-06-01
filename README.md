@@ -10,6 +10,7 @@
 - [Credits]
 </big>
 
+
 ### Screenshots
 
 <img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/Screenshot%202023-06-01%20204937.png">
