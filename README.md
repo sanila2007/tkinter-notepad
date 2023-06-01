@@ -3,6 +3,12 @@
 
 <img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/notepad_icon.png" width=200 height=200>
 
+<big>
+- [Screenshots]
+- [Installation]
+- [Download]
+- [Credits]
+</big>
 ### Screenshots
 
 <img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/Screenshot%202023-06-01%20204937.png">
@@ -25,8 +31,12 @@
 Note:
 This application runs only on Windows operating systems.
 ```
-<br>
+
+### Credits
+
+- [Sanila Ranatunga](https://github.com/sanila2007)
+
 
 <p>*Any issues or suggestions? Feel free to open an <a href="https://github.com/sanila2007/tkinter-notepad/issues">new issue</a></p>
 
-> Made with love by <a href="https://github.com/sanila2007">@sanila2007</a>
+> Made with 💞 by <a href="https://github.com/sanila2007">@sanila2007</a>
