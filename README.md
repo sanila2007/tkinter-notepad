@@ -3,6 +3,14 @@
 
 <img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/notepad_icon.png" width=200 height=200>
 
+### Screenshots
+
+<img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/Screenshot%202023-06-01%20204937.png">
+
+<big> Dark mode</big>
+
+<img src="https://github.com/sanila2007/tkinter-notepad/blob/mai/images/Screenshot%202023-06-01%20204956.png">
+
 ### Installation
 
 - Download this
